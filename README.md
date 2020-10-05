@@ -2,7 +2,9 @@ how to install
 
 just get python 3
 
-pip3 install https://github.com/lexfor/Watermark
+git clone https://github.com/lexfor/Watermark
+
+cd Watermark
 
 pip3 install -r requirements.txt
 
